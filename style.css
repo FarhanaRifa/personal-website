@@ -1,0 +1,128 @@
+body{
+    font-family: Myriad Pro ;
+}
+h1{
+    font-size: 40px;
+    font-weight: 300;
+    margin:0;
+
+}
+h2{
+    font-size: 40px;
+    font-weight: 700;
+    margin:0px;
+}
+p{
+    color: dimgray;
+    padding-bottom: 20px;
+}
+.jack{
+    color: #ec4c78;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left:5%;
+    float: left;
+    padding-top: 100px;
+}
+.half-width img{
+    width: 100%;
+}
+
+.top-banner{
+    background-image: url("personal-website images/header-bg.png");
+   background-size: 100% 100%;
+   padding: 100px 0px;
+   background-repeat: no-repeat;
+   
+}
+.dream-area{
+    background-image: url("personal-website images/biography-bg.png");
+    background-size: cover;
+    padding-bottom: 80px;
+}
+section{
+    overflow: hidden;
+    
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(80deg, #ec4e8d, #ed4b71);
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+}
+.link-button:hover{
+    background-image: linear-gradient(80deg, #ec4e8d, #ed4b71);
+    border: 5px solid  #ec4e8d;
+
+}
+.latest{
+    text-align: center;
+    font-weight: 600;
+    padding-bottom:40px;
+    
+}
+.latest-work img{
+    height: 100%;
+    width: 28%;
+    padding-left: 3%;
+}
+.latest-work{
+    background-image: url("personal-website images/latest-work-bg.png");
+    background-position: 50% 30%;
+    background-size: cover;
+    padding-bottom: 100px;
+    padding-top:100px
+}
+h5{
+    color: dimgray;
+}
+.client{
+    text-align: center;
+    background-image: url("personal-website images/footer-bg.png");
+    background-position: 50% 50%;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    background-size: 100%;
+}
+.button {
+    background-image: linear-gradient( 180deg,#ec4f8f, #ed4b72);
+    display: inline-block;
+    padding: 35px 150px;
+    border-radius: 10px;
+}
+.leave{
+    color: white;
+    margin-bottom: 20px;
+}
+.email {
+    color: white;
+    font-size: 22px;
+    margin-top: 15px;
+    display: block;
+}
+.middle{
+    width:90%;
+    margin:0 auto;
+}
+.half1{
+    width: 40%;
+    float:left;
+    margin-left:10%
+}
+.half2{
+    width: 50%;
+    float:left;
+}
+.half2 img{
+    width:100%;
+}
+
+.copyright p{
+text-align: center;
+font-size: 14px;
+padding-bottom: 0px;
+}
